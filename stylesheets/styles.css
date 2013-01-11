@@ -1,11 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
+  background: url("http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aerial_view_of_city_of_Oakland_1.jpg/1280px-Aerial_view_of_city_of_Oakland_1.jpg") 50% 50% no-repeat;
   padding:50px;
   font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#191919;
   font-weight:300;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#191919;
