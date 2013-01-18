@@ -1,9 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+//@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono);
+
 
 body {
   background: url("http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aerial_view_of_city_of_Oakland_1.jpg/1280px-Aerial_view_of_city_of_Oakland_1.jpg") 50% 50% no-repeat;
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Droid Sans Mono', sans-serif;
+
+//font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#191919;
   font-weight:300;
 }
