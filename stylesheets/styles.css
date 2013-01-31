@@ -55,6 +55,10 @@ a small {
 .wrapper {
   width:860px;
   margin:0 auto;
+  padding-top:25px;
+  padding-bottom:25px;
+  padding-right:50px;
+  padding-left:50px;
 }
 
 blockquote {
