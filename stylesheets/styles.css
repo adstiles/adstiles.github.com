@@ -17,14 +17,18 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#191919;
   margin:20 20 20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:30px;
+    padding-left:30px;
 }
 
 p, ul, ol, table, pre, dl {
   margin:20 20 20px;
-    padding-top:25px;
-    padding-bottom:25px;
-    padding-right:50px;
-    padding-left:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:30px;
+    padding-left:30px;
 }
 
 h1, h2, h3 {
