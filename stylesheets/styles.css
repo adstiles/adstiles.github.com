@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#ffffff;
+  color:#191919;
   font-weight:300;
   background-image:url('http://upload.wikimedia.org/wikipedia/commons/c/cb/Aerial_view_of_city_of_Oakland_1.jpg');
   background-repeat:no-repeat;
@@ -15,7 +15,7 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
-  color:#ffffff;
+  color:#191919;
   margin:20 20 20px;
     padding-top:10px;
     padding-bottom:10px;
@@ -40,11 +40,11 @@ h1 {
 }
 
 h2 {
-  color#ffffff;
+  color#191919;
 }
 
 h3, h4, h5, h6 {
-  color:#ffffff;
+  color:#191919;
 }
 
 a {
@@ -154,7 +154,7 @@ header ul a {
 }
 
 strong {
-  color:#ffffff;
+  color:#191919;
   font-weight:700;
 }
 
